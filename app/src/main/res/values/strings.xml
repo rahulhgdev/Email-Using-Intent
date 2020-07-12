@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Email Intent</string>
+    <string name="email">Email</string>
+    <string name="by_rahulhg">~By RahulHG</string>
+    <string name="introicon">IntroIcon</string>
+    <string name="to">To:</string>
+    <string name="subject_to">Subject To:</string>
+    <string name="message">Message:</string>
+    <string name="send">Send</string>
+</resources>
